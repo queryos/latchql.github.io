@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/latchql.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/latchql.github.io/static/js/main.451bed3f.js",
+    "static/media/logo.png": "/latchql.github.io/static/media/logo.80a0d91d9ed07a72b633.png",
+    "index.html": "/latchql.github.io/index.html",
+    "main.e6c13ad2.css.map": "/latchql.github.io/static/css/main.e6c13ad2.css.map",
+    "main.451bed3f.js.map": "/latchql.github.io/static/js/main.451bed3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.451bed3f.js"
+  ]
+}
