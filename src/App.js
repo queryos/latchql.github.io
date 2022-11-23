@@ -6,7 +6,8 @@ function App() {
     <div
       className="App"
       style={{
-        backgroundImage: "linear-gradient(to right, #0f0c29, #302b63, #24243e)",
+        // backgroundImage: "linear-gradient(to right, #0f0c29, #302b63, #24243e)",
+        // backgroundColor: "blue",
         color: "white",
       }}
     >
