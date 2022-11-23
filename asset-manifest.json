@@ -1,14 +1,21 @@
 {
   "files": {
     "main.css": "/latchql.github.io/static/css/main.e6c13ad2.css",
-    "main.js": "/latchql.github.io/static/js/main.8072731e.js",
+    "main.js": "/latchql.github.io/static/js/main.adae84e5.js",
+    "static/media/celine.png": "/latchql.github.io/static/media/celine.b7bde4a9e33673887c12.png",
+    "static/media/ray.png": "/latchql.github.io/static/media/ray.b621d15e78e5ab932d17.png",
+    "static/media/hannah.png": "/latchql.github.io/static/media/hannah.9184dd3dd35621cb5721.png",
+    "static/media/Alex-sized.jpg": "/latchql.github.io/static/media/Alex-sized.9229e9f6b54593cc80be.jpg",
     "static/media/logo.png": "/latchql.github.io/static/media/logo.80a0d91d9ed07a72b633.png",
+    "static/media/johnjered.jpeg": "/latchql.github.io/static/media/johnjered.89bd4358f3d2a2564517.jpeg",
+    "static/media/feature.png": "/latchql.github.io/static/media/feature.fabc7413f910141dd2de.png",
+    "static/media/github.png": "/latchql.github.io/static/media/github.f11021803f68852df283.png",
     "index.html": "/latchql.github.io/index.html",
     "main.e6c13ad2.css.map": "/latchql.github.io/static/css/main.e6c13ad2.css.map",
-    "main.8072731e.js.map": "/latchql.github.io/static/js/main.8072731e.js.map"
+    "main.adae84e5.js.map": "/latchql.github.io/static/js/main.adae84e5.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8072731e.js"
+    "static/js/main.adae84e5.js"
   ]
 }
